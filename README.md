@@ -48,8 +48,7 @@ Vulnerability #2:
 ## Red
 
 Vulnerability #1: Insecure Direct Object Reference (IDOR):
-* 
-* The ID for each salesman is visible in the URL, by manipulating the numbers, you are able to access 2 salesmen, 1 that had been terminated and 1 that is not supposed to be public until a later date.
+* THe ID of a person can be seen in the URL and can be changed to access the files of vissible and non vissible information.
 
 <img src= "red1.gif" >
 
