@@ -53,7 +53,7 @@ Vulnerability #1: Insecure Direct Object Reference (IDOR):
 <img src= "red1.gif" >
 
 Vulnerability #2: Cross-Site Request Forgery (CSRF): 
-* When using an html file you can change the information of a person based on a specific web address. The attacker just needs to convince the user to open the file.
+* When using an html file ("coolbeans.html" in this github)  you can change the information of a person based on a specific web address. The attacker just needs to convince the user to open the file.
 
 <img src= "red2_1.gif">
 <img src= "red2_2.gif">
